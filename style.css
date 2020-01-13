@@ -1,0 +1,46 @@
+* {
+	box-sizing: border-box;
+	/*размеры считаются по границе border*/
+}
+body {
+	background-color: #FF8C00;
+	margin: 0;
+}
+
+.main, h1 {
+	width: 80%;
+	margin:auto;
+	/*автомотическая центровка */
+	font-family: 'Roboto Mono', monospace;
+}
+
+h1 {
+	background-color:#FFFFF0;
+	color:black;
+	text-align: center;
+	padding:20px;
+}
+.main {
+	background-color:#DAA520;
+	text-indent: 15px;
+	/*обзацы*/
+	padding: 100px;
+	/*горизонтальное выравнивание текста по центру*/
+}
+.html {
+	width: 100%;
+}
+.istok{
+	text-decoration:none;
+	color: white;
+	background-color:#FF4500;
+}
+.text {
+	color:#FF4500;
+	text-decoration:none;
+}
+.silka{
+	text-decoration:none;
+	color: white;
+	background-color:#FF4500;
+}
